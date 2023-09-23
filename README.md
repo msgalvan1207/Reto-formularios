@@ -1,4 +1,5 @@
 # Reto-formularios  
+Por: Martín Santiago Galván Castro - 201911013
 ## Validación Correo  
 Para la validación del correo, se utilizo un regex que detecta la estructura general de un correo (algo@algo.com)  
 
